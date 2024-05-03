@@ -28,7 +28,11 @@ ogawa9341@gmail.com
 
 <br><br><br>
 
+<div align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEE-NS&show_icons=true&theme=dark)
+
+</div>
 
 
 
