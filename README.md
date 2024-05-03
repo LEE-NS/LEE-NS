@@ -6,6 +6,7 @@ I'm currently in the process of increasing knowledge of web development.
 ### 🤝 Contact me
 
 |![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&link="https://gmail.com")|![Velog](http://img.shields.io/badge/-Velog-20C997?style=for-the-badge&link="https://velog.io/") |
+|---|---|
 |ogawa9341@gmail.com|https://velog.io/@frog41/posts|
 
 
