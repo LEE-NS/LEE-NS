@@ -3,7 +3,7 @@ I'm currently in the process of increasing knowledge of web development.
 
 
 ### 🤝 SNS
-![Velog](http://img.shields.io/badge/-Velog-20C997?style=for-the-badge&link="https://velog.io/@frog41/posts")
+[![Velog](http://img.shields.io/badge/-Velog-20C997?style=for-the-badge)](https://velog.io/@frog41/posts)
 
 
 ### 📧 E-mail
