@@ -1,20 +1,26 @@
 ### 👤 Hello, my name is LEE-NS
 I'm currently in the process of increasing knowledge of web development.
 
-<hr>
+<br>
 
 ### 🤝 SNS
 ![Velog](http://img.shields.io/badge/-Velog-20C997?style=for-the-badge&link="https://velog.io/@frog41/posts")
 
-<hr>
+<br>
 
 ### 📧 E-mail
 ogawa9341@gmail.com
 
-<hr>
+<br>
 
 ### 🔧 Main skill stacks are
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogawa9341&show_icons=true&theme=dark)
+
+
 
 
 
