@@ -1,7 +1,7 @@
 ### Hello, my name is LEE-NS
-### I am currently in the process of increasing my knowledge of web development.
-
-### Contact me from 
+I am currently in the process of increasing my knowledge of web development.
+<hr>
+### Contact me 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ogawa9341@gmail.com
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
