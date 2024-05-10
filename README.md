@@ -30,9 +30,7 @@ ogawa9341@gmail.com
 
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEE-NS&show_icons=true&layout=normal)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEE-NS&langs_count=10&layout=normal)](https://github.com/LEE-NS)﻿
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEE-NS&show-icons=true&layout=normal) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEE-NS&langs-count=10&layout=normal)](https://github.com/LEE-NS)﻿
 
 </div>
 
