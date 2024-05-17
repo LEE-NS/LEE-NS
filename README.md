@@ -28,7 +28,7 @@ ogawa9341@gmail.com
 
 <div align="center">
   
-### 🤯 Have done it at least once
+### 🤯 Have done at least once
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 </div>
