@@ -1,7 +1,7 @@
 <div align="center">
 
 ### 👤 Hello, my name is LEE-NS
-I'm currently in the process of increasing knowledge of web development.
+I'm currently in the process of increasing knowledge of web development
   
 </div>
 
