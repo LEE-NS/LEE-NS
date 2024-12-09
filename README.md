@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 ### 👤 Hello, my name is LEE-NS
 I'm currently in the process of increasing knowledge of web development
