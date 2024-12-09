@@ -1,7 +1,7 @@
 <div align="left">
 
 ### 😊 Hello, my name is Nyeongsu Lee
-I am currently looking for a job as a web frontend developer. </br></br>
+I am participating in the project as a front-end worker for a comprehensive gaming web application. </br></br>
 Starting in 2022, I received training at the Web Combine curriculum at SBS Computing Academy, and in 2024, I completed a web development course at the Programming Bootcamp from Sparta Coding Club.
 
 </br>
