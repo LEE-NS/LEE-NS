@@ -1,6 +1,6 @@
 <div align="left">
 
-### 👤 Hello, my name is LEE-NS
+### 👤 Hello, my name is Nyeongsu Lee
 I'm currently in the process of increasing knowledge of web development
     
 ### 🤝 SNS
