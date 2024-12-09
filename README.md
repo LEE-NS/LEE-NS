@@ -1,7 +1,8 @@
 <div align="left">
 
 ### 👤 Hello, my name is Nyeongsu Lee
-I'm currently in the process of increasing knowledge of web development
+I am currently looking for a job as a web frontend developer.
+Starting in 2022, I received training at the Web Combine curriculum at SBS Computing Academy, and in 2024, I completed a web development course at the Programming Bootcamp from Sparta Coding Club.
     
 ### 🤝 SNS
 [![Velog](http://img.shields.io/badge/-Velog-20C997?style=for-the-badge)](https://velog.io/@frog41/posts)
